@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/seilylook/project-react-5-seilylook-db.json/issues"
   },
-  "homepage": "https://github.com/seilylook/project-react-5-seilylook-db.json#readme"
+  "homepage": "https://github.com/seilylook/project-react-5-seilylook-db.json#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
